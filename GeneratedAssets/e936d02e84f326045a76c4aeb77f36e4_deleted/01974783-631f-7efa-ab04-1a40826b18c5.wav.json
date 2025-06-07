@@ -1,0 +1,12 @@
+{
+    "asset": "e936d02e84f326045a76c4aeb77f36e4",
+    "fileName": "01974783-631f-7efa-ab04-1a40826b18c5.wav",
+    "prompt": "retro Coin pickup",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "customSeed": -1,
+    "w3CTraceId": "7f101a8de831f4f7f2b0260d6d7f641a",
+    "duration": 1.9359791278839112,
+    "autoTrim": true,
+    "hasReference": true
+}

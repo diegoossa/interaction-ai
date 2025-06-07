@@ -1,0 +1,19 @@
+{
+    "asset": "885c5fe8aa7a86d48913948b0f607dd6",
+    "fileName": "019747a2-873c-7196-87eb-97a2176970ed.png",
+    "prompt": "Coin",
+    "negativePrompt": "",
+    "model": "63e0d07e-8325-4abf-960f-03a6fca8cc63",
+    "customSeed": -1,
+    "w3CTraceId": "98fdcbb4ddc68e4bfca61e97d3863f76",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

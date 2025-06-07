@@ -1,0 +1,12 @@
+{
+    "asset": "cdf356eed74475c49a25cd6b47747c1d",
+    "fileName": "01974798-f149-7698-b9a9-c02f4596bf3f.wav",
+    "prompt": "Robot beeps",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "customSeed": -1,
+    "w3CTraceId": "cbe4e1a8ef2c570eae20c345cc5ed638",
+    "duration": 3.8329999446868898,
+    "autoTrim": true,
+    "hasReference": true
+}

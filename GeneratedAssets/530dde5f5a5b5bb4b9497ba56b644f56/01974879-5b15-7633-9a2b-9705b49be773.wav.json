@@ -1,0 +1,12 @@
+{
+    "asset": "530dde5f5a5b5bb4b9497ba56b644f56",
+    "fileName": "01974879-5b15-7633-9a2b-9705b49be773.wav",
+    "prompt": "Machine Background noise",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "customSeed": -1,
+    "w3CTraceId": "f78c4879f4fcdc5e54fae581c4b21b07",
+    "duration": 5.0,
+    "autoTrim": true,
+    "hasReference": false
+}

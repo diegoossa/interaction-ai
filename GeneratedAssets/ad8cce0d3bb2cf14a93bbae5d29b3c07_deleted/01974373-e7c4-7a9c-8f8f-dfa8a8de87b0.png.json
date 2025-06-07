@@ -1,0 +1,19 @@
+{
+    "asset": "ad8cce0d3bb2cf14a93bbae5d29b3c07",
+    "fileName": "01974373-e7c4-7a9c-8f8f-dfa8a8de87b0.png",
+    "prompt": "Dark Forest Skybox",
+    "negativePrompt": "",
+    "model": "d4800c06-1388-4587-b3cd-455b67e220df",
+    "customSeed": -1,
+    "w3CTraceId": "313e5a015f3b7d5b204519f838e01379",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

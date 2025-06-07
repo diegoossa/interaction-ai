@@ -1,0 +1,9 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="pause-screen-container" style="flex-grow: 1; align-items: center; justify-content: center;">
+        <ui:VisualElement name="buttons">
+            <ui:Button text="Continue" name="continue-button" />
+            <ui:Button text="Setting" name="settings-button" />
+            <ui:Button text="Exit" name="exit-button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

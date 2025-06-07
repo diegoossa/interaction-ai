@@ -1,0 +1,19 @@
+{
+    "asset": "a1c628bd1b2c2f54f9c781dfb72a408a",
+    "fileName": "0197436e-c22f-7046-a534-89a4686cc502.png",
+    "prompt": "Dark forest",
+    "negativePrompt": "",
+    "model": "b6348c98-ca5a-4362-b71c-55dfe6bffbcf",
+    "customSeed": -1,
+    "w3CTraceId": "550b1b97843f24018035a075abe33590",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
